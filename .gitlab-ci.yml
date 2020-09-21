@@ -1,0 +1,13 @@
+include:
+  - https://invent.kde.org/sysadmin/ci-tooling/raw/master/invent/binary-flatpak.yml
+variables:
+  BUNDLE: org.kde.kstars.flatpak
+flatpak:
+  extends: .flatpak
+  variables:
+    MANIFEST_URL: https://invent.kde.org/kukuhsyafaat/org.kde.kstars/-/raw/master/org.kde.kstars.json
+    MANIFEST_PATH: org.kde.kstars.json
+    APP_ID: org.kde.kstars
+    FLATPAK_MODULE: kstars
+    CMAKE_ARGS: -DENABLE_TESTING=OFF
+

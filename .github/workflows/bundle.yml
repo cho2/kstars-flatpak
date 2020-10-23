@@ -17,4 +17,4 @@ jobs:
         bundle: "kstars.flatpak"
         manifest-path: "org.kde.kstars.json"
         app-id: "org.kde.kstars"
-        flatpak-module: "kstars"
+

@@ -12,7 +12,7 @@ jobs:
       options: --privileged
     steps:
     - uses: actions/checkout@v2
-    - uses: bilelmoussaoui/flatpak-github-actions@v2
+    - uses: bilelmoussaoui/flatpak-github-actions/flatpak-builder@v3
       with:
         bundle: "kstars.flatpak"
         manifest-path: "org.kde.kstars.json"

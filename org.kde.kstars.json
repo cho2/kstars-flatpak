@@ -35,8 +35,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/kstars/kstars-3.5.2.tar.xz",
-                    "sha256": "897eeb3106dcb5d2b701e1f866f1fe4f8aefd591f09f9e6eac9875e742a85d75" 
+                    "url": "https://download.kde.org/stable/kstars/kstars-3.5.3.tar.xz",
+                    "sha256": "92052c1b69366120001fb79adaa7c6c3880e379085754a10dc4c0e9c04d76798" 
                 }                 
             ]
         }

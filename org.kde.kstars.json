@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.com/libeigen/eigen/-/archive/3.3.7/eigen-3.3.7.tar.bz2",
-                    "sha256": "685adf14bd8e9c015b78097c1dc22f2f01343756f196acdc76a678e1ae352e11"
+                    "url": "https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.tar.bz2",
+                    "sha256": "b4c198460eba6f28d34894e3a5710998818515104d6e74e5cc331ce31e46e626"
                 }
             ]
         },      
@@ -36,7 +36,7 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/kstars/kstars-3.5.5.tar.xz",
-                    "sha256": "703df56050672af10fc8142296ceaa27134a6a00e8222f3f6677f18ff1ac6b43_cb" 
+                    "sha256": "703df56050672af10fc8142296ceaa27134a6a00e8222f3f6677f18ff1ac6b43" 
                 }                 
             ]
         }
